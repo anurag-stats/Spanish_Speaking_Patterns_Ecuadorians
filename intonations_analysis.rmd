@@ -1,10 +1,12 @@
+---
+output:
+  html_document:
+    df_print: paged
+  always_allow_html: true
+  pdf_document: default
+---
 
 
-### Primary questions that need to be answered by Esteban before analysis:
-
-Whether observations are nested only within subject or also within sentence type.
-
-Whether the target is subject-specific inference or mainly exploratory description.
 
 
 ```{r}

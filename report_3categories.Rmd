@@ -2,7 +2,7 @@
 title: "Fixed Effects - 3 categories"
 author: "Anurag Banerjee"
 date: "2026-03-25"
-output: html_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
