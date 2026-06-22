@@ -12,4 +12,5 @@ The next phase was to use a model to answer research questions, this proved diff
 
 A final report was written which can be found in the file titled Ecuadorian_Spanish_Pattern_Analysis, however, a major caveat about the reliability of the analysis still remains due to the lack of unique data.
 
+There are R scripts corresponding to each Rmd file, which were generated using the same Rmd file.
 
